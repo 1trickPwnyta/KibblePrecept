@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<Defs>
+
+  <IssueDef>
+    <defName>KibbleEating</defName>
+    <label>eating kibble</label>
+    <iconPath>UI/Issues/EatingKibble</iconPath>
+  </IssueDef>
+
+  <PreceptDef>
+    <defName>KibbleEating_DontMind</defName>
+    <issue>KibbleEating</issue>
+    <label>don't mind</label>
+    <description>Meow, meow, meow, meow, meow, meow, meow, meow, meow, meow, meow, meow, meow, meow, meow, meow.</description>
+    <impact>Low</impact>
+    <displayOrderInIssue>0</displayOrderInIssue>
+    <defaultSelectionWeight>0</defaultSelectionWeight>
+  </PreceptDef>
+
+</Defs>
